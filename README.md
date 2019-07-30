@@ -23,3 +23,7 @@ IDE displays annoying `unresolved reference` errors when a Java class is referen
 6. Re-open the project in Android Studio.
 7. Navigate to the `MainActivity.kt` file again. IDE would display an `unresolved reference` error for the `Shared` java class.
 8. *Optional*: Verify that the build still completes without errors.
+
+## Screenshot
+
+![screenshot](screenshot.png)

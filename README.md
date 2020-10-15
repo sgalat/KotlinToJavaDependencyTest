@@ -6,7 +6,7 @@ Demonstrate an issue in Android Studio when a shared Java class is being referen
 
 ## Prerequisites
 
-Android Studio 3.4.2 - 4.1 RC3.
+Android Studio 3.4.2 - 4.1 RC3 (also reproduces in 4.2 Canary 12).
 
 ## Description
 
